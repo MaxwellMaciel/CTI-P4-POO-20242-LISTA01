@@ -1,15 +1,34 @@
 # CTI-P4-POO-20242-LISTA01
 
-## Olá! Sou Maxwell Maciel de Sousa 🌟
+## Hello! I'm Maxwell Maciel de Sousa 🌟
 
-Estudante do Técnico em Informática, apaixonado por leitura, aspirante da tecnologia e do conhecimento, obcecado pelo mundo da música e possuo um forte fascínio pelo universo da arte :)
+Welcome to my profile! I'm a tech enthusiast with a passion for lemusic, and the arts. Here’s a bit more about me:
 
-🌍 **Studying:**
+## 🎓 About Me
+- 📚 I’m currently a student in **Information Technology**.
+- 🏫 I study at **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), campus Maranguape**.
+- 🔍 I'm always eager to explore new fields in technology, constantly striving to expand my knowledge.
 
-![Java](https://img.icons8.com/color/48/000000/java.png)
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+## 🌱 What I'm Learning
+I'm focused on building a strong foundation in programming and web development. Here are some of the technologies I’m currently studying:
+- **Java**
+- **Python**
+- **HTML**
+- **CSS**
 
-📞 **Contatos:**
-- Email: sousamaciel@aluno.ifce.edu.br
+## 🎨 Interests
+When I'm not coding, you can find me enjoying:
+- 📖 Drawning
+- 🎶 Music
+- 🎨 Art
+
+
+## 📫 How to Reach Me
+Feel free to reach out if you'd like to collaborate, share ideas, or just have a chat!
+
+- **Email:** sousamaciel@aluno.ifce.edu.br
+- **Instagram:** [@maxsksr](https://www.instagram.com/maxsksr/profilecard/?igsh=anczOW9iZ3pkdmRq)
+
+---
+
+Thank you for visiting my profile! Looking forward to connecting with you.
