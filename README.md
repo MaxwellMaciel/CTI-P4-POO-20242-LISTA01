@@ -11,10 +11,5 @@ Estudante do Técnico em Informática, apaixonado por leitura, aspirante da tecn
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 
-📄 **Preferências:**
-- Programação
-- Eletrônica
-- Web
-
 📞 **Contatos:**
 - Email: sousamaciel@aluno.ifce.edu.br
