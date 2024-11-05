@@ -24,7 +24,7 @@ This activity list is designed to deepen students' understanding of object-orien
 The activities in this list aim to:
 
 - Reinforce object-oriented programming skills.
-- Enable students to apply OOP concepts effectively.
+- Enable students to apply POO concepts effectively.
 - Prepare students for tackling more complex programming challenges.
   
 By completing these exercises, students will be well-equipped to handle software development tasks that require a strong grasp of OOP.
