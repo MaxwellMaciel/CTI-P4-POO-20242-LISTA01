@@ -1,6 +1,8 @@
-# Java Solutions 🎉
+# Java Programming Solutions and Algorithm Fundamentals
 
-This repository contains solutions for a series of programming problems in Java. Each problem is presented with a brief description of its functionality and a link to the respective code.
+This repository contains solutions to a series of programming problems in **Java**, focusing on fundamental concepts of algorithm design and data structures. Each problem is presented with a brief description of its functionality, along with a direct link to the corresponding code. The problems are designed to help practice programming skills and logical reasoning, with an emphasis on using **sequential structures** to efficiently solve tasks.
+
+In addition to the Java solutions, the repository also introduces basic concepts of **algorithm structures** and **Pascal programming**, such as variable declaration, value assignment, and input/output operations. These fundamentals are essential for developing robust programs and understanding how different programming languages handle the construction of both simple and complex algorithms.
 
 **Resolution of the Exercises Solved from CHAPTER 03 - SEQUENTIAL STRUCTURE of the book FUNDAMENTALS OF COMPUTER PROGRAMMING by authors Ana F. G. Ascencio and Edilene A. V. de Campos. 📚**
 
