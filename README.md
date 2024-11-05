@@ -6,7 +6,7 @@
 
 Welcome to the repository for **Activity List 01**, part of the **Object-Oriented Programming** course taught by Professor **Roger Moura Sarmento** at the IFCE campus in Maranguape.
 
-This activity list is designed to deepen students' understanding of object-oriented programming (OOP) principles. Each exercise provides a practical application of theoretical concepts, offering hands-on experience to help solidify the foundational skills needed for advanced software development.
+This activity list is designed to deepen students' understanding of object-oriented programming (POO) principles. Each exercise provides a practical application of theoretical concepts, offering hands-on experience to help solidify the foundational skills needed for advanced software development.
 
 ---
 
