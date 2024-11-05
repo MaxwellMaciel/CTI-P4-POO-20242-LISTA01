@@ -25,20 +25,6 @@ The main objective of these activities is to strengthen the students’ skills i
 
 ---
 
-### Activities Overview
-
-| **Activity Number** | **Description**                                     |
-|---------------------|-----------------------------------------------------|
-| 1                   | Introduction to Classes and Objects                 |
-| 2                   | Inheritance and Polymorphism                        |
-| 3                   | Encapsulation and Abstraction                        |
-| 4                   | Interfaces and Abstract Classes                      |
-| 5                   | Exception Handling                                   |
-
-Feel free to explore each folder to understand the approach taken in solving each exercise.
-
----
-
 ### Collaborators
 
 Special thanks to the following collaborators for their contributions to this project:
