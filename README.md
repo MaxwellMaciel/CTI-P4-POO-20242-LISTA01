@@ -38,7 +38,7 @@ A special shout-out to our amazing collaborators who contributed to this project
 | **Name**           | **GitHub Profile**                                    |
 |--------------------|-------------------------------------------------------|
 | Raquel Matos       | [raquelmatos02](https://github.com/raquelmatos02)     |
-| Belas das X        | [beladasx](https://github.com/beladasx)               |
+| Gabriel Andrade    | [beladasx](https://github.com/beladasx)               |
 | Rebecca Oliver     | [rebeccaoliver](https://github.com/rebeccaoliver)     |
 
 ---
